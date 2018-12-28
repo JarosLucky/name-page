@@ -5,4 +5,4 @@
 	Minimalist design,
 	Where various links are placed and u nickname
 # PreView
-	https://jaroslucky.github.io/name-page/
+	<https://jaroslucky.github.io/name-page/>
